@@ -56,8 +56,7 @@ This project is a comprehensive Power BI dashboard that visualizes insights from
 - **Power Query Editor** – for data preprocessing and filter logic.
 - **DAX** – for calculated columns and dynamic time visibility logic.
 - **GitHub** – version control and repository hosting.
-- **[Deployed Frontend Link](#)** – hosted on Vercel / Netlify.
-- **[Deployed Backend/API (if applicable)](#)** – hosted on Render / Railway.
+- **[null-class-task1.vercel.app](#)** – hosted on Vercel / Netlify.
 
 ---
 
